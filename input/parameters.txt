@@ -1,0 +1,12 @@
+23
+15
+20
+0.6
+1000
+
+input parameters:
+1. population_dimension
+2. number_of_parents ( the number of selected chromosome for crossover )
+3. tournament_dimension (>= number_of_parents)
+4. mutation_ratio ( the probability of a chromosome to be affected by mutation )
+5. number_of_steps ( stop condition )
